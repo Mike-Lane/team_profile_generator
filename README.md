@@ -7,9 +7,10 @@ I have been tasked with creating a Node.js command-line application that takes i
 <img src="https://github.com/Mike-Lane/team_profile_generator/blob/main/assets/img/Screenshot.jpg?raw=true" />
 <br />
 <br />
-<video width="500" height="1000"> <source src="https://github.com/Mike-Lane/team_profile_generator/blob/main/assets/vid/screen-capture.mov" type="video/mov"> </video>
+https://user-images.githubusercontent.com/88682940/139625579-503ad6b3-5a14-401a-b799-92f0497cd14d.mov
 <br />
 <br />
+
 
 The criteria for the assignment are as follows:
 <ul>
