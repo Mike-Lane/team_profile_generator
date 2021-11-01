@@ -131,7 +131,7 @@ function writeHTMLFile() {
         } else if (empRole === "Employee") {
             output = generateEmployeeCard(emp.name, emp.id, emp.email);
         } else if (empRole === "Engineer") {
-            output = generateEngineerCard(emp.name, emp.id, emp.email, emp.github)
+            output = generateEngineerCard(emp.name, emp.id, emp.email, emp.github) 
         }
 
         $("#TeamCards").append(output);
